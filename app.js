@@ -1,0 +1,1 @@
+alert('When success comes, be ready!');
