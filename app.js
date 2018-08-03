@@ -1,1 +1,1 @@
-alert('When success comes, be ready!');
+alert('success comes, ready up!');
